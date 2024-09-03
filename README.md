@@ -17,9 +17,6 @@ Throughout my career, I've worked on various projects which you can check out on
 ## Personal Website
 For my resume and articles on programming, visit my personal website: [Link](https://mahdiabqari.liara.run)
 
-## GitHub Stats
-!GitHub Stats
-
 ---
 
 Thank you for visiting my profile! 🌟
