@@ -1,1 +1,33 @@
-# Hi Im Mahdi
+# Hi there! I'm Mahdi Abqari 👋
+
+## About Me
+I'm a front-end developer with two years of experience in web development. Currently, I'm working with the following technologies:
+- **JavaScript**
+- **TypeScript**
+- **Tailwind CSS**
+- **Sass**
+- **Node.js**
+- **Express.js**
+- **React**
+- **Next.js**
+- **MySQL**
+
+## Projects
+Throughout my career, I've worked on various projects which you can check out on my GitHub.
+
+## Personal Website
+For my resume and articles on programming, visit my personal website: mahdiabqari.liara.run
+
+## Social Media
+- Instagram
+- Telegram
+
+## GitHub Stats
+!GitHub Stats
+
+## Contact Me
+If you have any questions or want to get in touch, feel free to email me.
+
+---
+
+Thank you for visiting my profile! 🌟
