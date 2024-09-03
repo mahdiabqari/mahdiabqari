@@ -8,7 +8,7 @@ I'm a front-end developer with two years of experience in web development. Curre
 - **Sass**
 - **Node.js**
 - **Express.js**
-- **React**
+- **React.js**
 - **Next.js**
 
 ## Projects
