@@ -23,7 +23,7 @@ Throughout my career, I've worked on various projects which you can check out on
 - **Project 3**: Description of project 3.
 
 ## Personal Website
-For my resume and articles on programming, visit my personal website: [Link](mahdiabqari.liara.run)
+For my resume and articles on programming, visit my personal website: [Link](https://mahdiabqari.liara.run)
 
 ## Social Media
 Connect with me on social media:
