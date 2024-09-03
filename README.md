@@ -10,7 +10,6 @@ I'm a front-end developer with two years of experience in web development. Curre
 - **Express.js**
 - **React**
 - **Next.js**
-- **MySQL**
 
 ## Projects
 Throughout my career, I've worked on various projects which you can check out on my GitHub.
