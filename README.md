@@ -12,7 +12,4 @@ I'm Mahdi<br>A web developer<br>I have been working in the field of website <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdiabqari&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiabqari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=mahdiabqari&icon=2&color=13)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
