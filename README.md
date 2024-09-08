@@ -1,7 +1,4 @@
-[![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif
-)
-
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
 
 # About Me:
 I'm Mahdi<br>A web developer<br>I have been working in the field of website <br>development with JavaScript for about 2 years<br>You can see My projects and My resume below
