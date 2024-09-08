@@ -1,7 +1,4 @@
-# Hello Animation
-
-!Hello
-
+![til](./app/assets/images/banner.png)
 
 
 # About Me:
