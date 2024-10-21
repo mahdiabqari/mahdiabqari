@@ -7,7 +7,7 @@ I'm Mahdi<br>a website developer<br>I have been working in the field of website 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdiabqari) 
-[![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=blue)](https://t.me/mahdiabqari) 
+[![Telegram](https://img.shields.io/badge/Telegram-%0000000.svg?logo=Telegram&logoColor=blue)](https://t.me/mahdiabqari) 
 <br>
 [Personal website](https://mahdiabqari.liara.run)
 
