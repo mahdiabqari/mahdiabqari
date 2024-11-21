@@ -1,6 +1,4 @@
 
-
-preview
 <h1 align="center">Hi 👋, I'm Mahdi Abqari</h1>
 <h3 align="center">A computer Science Explorer</h3>
 
