@@ -76,6 +76,9 @@
 <a href="https://instagram.com/mahdiabqari" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://t.me/mahdiabqari" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a> 
 </div>  
   
 
