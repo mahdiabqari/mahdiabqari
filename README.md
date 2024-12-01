@@ -64,9 +64,7 @@
 
 
 
-</td></tr></table>  
 
-<br/>  
 
 
 ## Connect with me  
