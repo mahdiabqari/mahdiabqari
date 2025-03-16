@@ -7,11 +7,7 @@
  👨‍💻 working remotely since 2020 🚀</div>  
   
 
--  🌱 I’m currently learning **Nothing**  
-  
-
--  👨‍💻 All of my projects are available at [https://mahdiabqari.liara.run/Projects](https://mahdiabqari.liara.run/Projects)  
-  
+-  🌱 I’m currently learning **Nothing**    
 
 -  📝 I regularly write articles on [https://mahdiabqari.liara.run/Documents](https://mahdiabqari.liara.run/Documents)  
   
