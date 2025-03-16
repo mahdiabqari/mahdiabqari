@@ -12,9 +12,6 @@
 -  📝 I regularly write articles on [https://mahdiabqari.liara.run/Documents](https://mahdiabqari.liara.run/Documents)  
   
 
--  📄 Know about my experiences [https://mahdiabqari.liara.run/About](https://mahdiabqari.liara.run/About)  
-  
-
 <br/>  
 
 
