@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mahdi, a computer Explorer
+### <div align="center">I'm Mahdi, a Computer explorer
  👨‍💻 working remotely since 2020 🚀</div>  
   
 
