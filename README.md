@@ -9,7 +9,7 @@
 
 -  🌱 I’m currently learning **Nothing**    
 
--  📝 I regularly write articles on [https://mahdiabqari.liara.run/Documents](https://mahdiabqari.info/articles)  
+-  📝 I regularly write articles on [https://mahdiabqari.info/articles](https://mahdiabqari.info/articles)  
   
 
 <br/>  
