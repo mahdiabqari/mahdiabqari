@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Mahdi, a Computer explorer
- 👨‍💻 working remotely since 2020 🚀</div>  
+ 👨‍💻 working since 2020 🚀</div>  
   
 
 -  🌱 I’m currently learning **Nothing**    
