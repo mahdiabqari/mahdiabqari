@@ -9,7 +9,7 @@
 
 -  🌱 I’m currently learning **Nothing**    
 
--  📝 I regularly write articles on [https://mahdiabqari.info/articles](https://mnsbase.com/articles)
+-  📝 I regularly write articles on [https://mnsbase.com/articles](https://mnsbase.com/articles)
 
 -  🚀 Check this out : [Roomsara](https://roomsara.liara.run) – private & group voice chat & messenger "Demo version" 
 
